@@ -27,7 +27,7 @@ namespace Trabajo_2
         // Método que se ejecuta al cargar el formulario
         private void Asignaturas_Load(object sender, EventArgs e)
         {
-            listar(); // Llama al método listar para llenar el DataGridView con asignaturas
+            listar(); // matisacowea
         }
 
         // Método que se ejecuta al hacer clic en el botón de guardar (BT_guardarA)
